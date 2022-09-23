@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="49.8793" height="85.5177" viewBox="0 0 49.88 85.52" enable-background="new 0 0 49.88 85.52" xml:space="preserve">
+	<path fill="#FFFFFF" fill-opacity="1" stroke-width="0.319997" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 26.1676,84.2804L 26.1676,84.1874L 1.74014,84.1874C 1.6958,85.0145 1.62283,85.7698 1.51489,86.4446C -0.0610352,96.2951 1.27371,113.59 1.18649,117.179C 1.09909,120.769 9.54849,119.719 15.0652,119.631C 20.5817,119.543 16.3348,114.377 16.3348,114.377C 16.3348,114.377 11.1465,114.641 14.9995,108.248C 18.6126,102.254 25.3437,86.2498 26.1676,84.2804 Z "/>
+	<path fill="#FFFFFF" fill-opacity="1" stroke-width="0.319997" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 47.0036,116.72C 47.9232,112.385 43.6106,109.824 43.6106,109.824C 43.6106,109.824 45.7084,97.8044 47.4063,84.1874L 26.2624,84.1874L 27.7783,98.4642L 28.7466,117.902L 40.1079,118.756C 42.341,118.887 46.0841,121.054 47.0036,116.72 Z "/>
+	<g>
+		<path fill="#FFFFFF" fill-opacity="1" stroke-width="0.319997" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 26.1679,72.5604L 25.9928,84.9343L 1.56528,84.9343C 1.89355,78.828 0.669403,68.8217 0.525635,58.6461C 0.404572,50.0771 1.04953,41.3881 4.03238,34.807L 11.5631,7.00476C 11.5631,7.00476 17.5176,0.174622 27.8498,0.525208C 38.1821,0.875793 47.1137,36.6014 49.0399,52.0126C 49.2714,53.8644 49.3664,56.1166 49.3542,58.6461C 49.3186,66.0577 48.364,75.8514 47.2314,84.9343L 26.0875,84.9343L 26.0761,84.8277L 26.1679,72.5604 Z "/>
+		<rect x="2.0769" y="82.2894" fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="23.3904" height="3.15234"/>
+		<rect x="26.6646" y="79.9789" fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="20.0247" height="5.53955"/>
+	</g>
+</svg>
